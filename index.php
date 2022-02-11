@@ -169,7 +169,7 @@ table.table td i {
                        
                     </div>
                        <div class="col-sm-7" align="left">
-                        <a href="insert.php" class="btn btn-secondary"><i class="material-icons"></i> <span>Add New Student</span></a>
+                        <a href="insert.php" class="btn btn-secondary"><i class="material-icons"></i> <span>Add Staff Details</span></a>
                                         
                     </div>
                 </div>
